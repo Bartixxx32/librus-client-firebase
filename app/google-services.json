@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412552777594",
+    "firebase_url": "https://bartixxx-1046.firebaseio.com",
+    "project_id": "bartixxx-1046",
+    "storage_bucket": "bartixxx-1046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412552777594:android:a551aae266aeafa2",
+        "android_client_info": {
+          "package_name": "pl.librus.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412552777594-eafkqrqsoqun47i0dhdtkfjknj53h11a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.librus.client",
+            "certificate_hash": "A0CBC683FE1E6AC7B0CABBE4FA1E6BE5DB3E0299"
+          }
+        },
+        {
+          "client_id": "412552777594-rs529gopvj84ebc9qk4euhkgsr495h4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjxMVSACvx4k87WJNTeovgiWnH7EXIQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412552777594-rs529gopvj84ebc9qk4euhkgsr495h4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
